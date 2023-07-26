@@ -1,2 +1,2 @@
 # manga-site
-### um site de mangas
+### Um site de mangas
